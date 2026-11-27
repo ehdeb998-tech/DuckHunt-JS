@@ -78,7 +78,7 @@ class Duck extends Character {
       minY: 0,
       maxY: this.options.maxY || Infinity,
       randomFlightDelta: this.options.randomFilghtDelta || RANDOM_FLIGHT_DELTA,
-      speed: 1
+      speed: 5
     }, opts);
 
     let distance, destination;
