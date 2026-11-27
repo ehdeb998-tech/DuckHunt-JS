@@ -4,10 +4,10 @@
       "id": 1,
       "title": "Level 1",
       "waves": 3,
-      "ducks": 40,
+      "ducks": 2,
       "pointsPerDuck": 100,
       "speed": 5,
-      "bullets": 50,
+      "bullets": 3,
       "radius": 60,
       "time": 13
     },
