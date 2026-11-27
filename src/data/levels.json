@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Level 1",
       "waves": 3,
-      "ducks": 2,
+      "ducks": 40,
       "pointsPerDuck": 100,
       "speed": 5,
       "bullets": 50,
