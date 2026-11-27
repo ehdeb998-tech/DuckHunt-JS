@@ -24,7 +24,7 @@ class Duck extends Character {
     const states = [
       {
         name: 'left',
-        animationSpeed: 0.18
+        animationSpeed: 0.1 //0.18
 
       },
       {
